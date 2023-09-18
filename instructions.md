@@ -90,3 +90,7 @@ In this part, we will practice the **forking workflow**, also known as the **ope
 5.  Merge any and all branches to the 'master' branch
 6.  Commit any changes, including a meaningful commit message
 7.  Push the result to the remote repository on GitHub
+
+
+
+### WHAT A COOL PROF THO
